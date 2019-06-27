@@ -1,0 +1,15 @@
+{
+  "name": "protractor_code",
+  "version": "1.0.0",
+  "description": "protacter",
+  "main": "index.js",
+  "dependencies": {
+    "protractor": "^6.0.0",
+    "jasmine": "^3.4.0"
+  },
+  "scripts": {
+    "test": "testing"
+  },
+  "author": "Gaurav",
+  "license": "ISC"
+}
